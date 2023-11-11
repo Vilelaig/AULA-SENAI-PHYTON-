@@ -64,14 +64,14 @@
 
 # Exercício 3: Escreva um programa que peça ao usuário para digitar uma 
 # senha e verifique se a senha contém pelo menos 8 caracteres.
-def verificar_senha():
-    senha = input(" Digite sua senha: ")
+# def verificar_senha():
+#     senha = input(" Digite sua senha: ")
 
-    if len( senha) >= 8:
-        print( "senha invalida")
-    else:
-        print(" A senha deve conter pelo menos 8 caracteres.")
-        verificar_senha()
+#     if len( senha) >= 8:
+#         print( "senha invalida")
+#     else:
+#         print(" A senha deve conter pelo menos 8 caracteres.")
+#         verificar_senha()
 
 # Exercício 4: Escreva um programa que peça ao usuário para digitar 
 # um número e verifique se o número é uma representação numérica (não contém 
