@@ -19,10 +19,10 @@
 #           numero -=1 
 # print('FOGO')
 
-insert_number = int(input("Insira um numero par"))
-cont=0
-while cont != insert_number:
-    cont+=2
-    print(cont)
-soma=print(cont)
-print(soma)
+# insert_number = int(input("Insira um numero par"))
+# cont=0
+# while cont != insert_number:
+#     cont+=2
+#     print(cont)
+# soma=print(cont)
+# print(soma)
