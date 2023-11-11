@@ -30,7 +30,7 @@
 # pares = list(filter(lambda x : x % 2 ==0, numeros ))
 # print(pares)
 
-alunos_aprovados ={'igor' , 'jotape' , 'pompeu' , 'gustavo' , 'zé'}
-todos_alunos = {'igor' , 'jotape' , 'pompeu' , 'gustavo' , 'zé' , 'samuel' , 'artur' , ' gui'}
-sit = todos_alunos.difference(alunos_aprovados)
-print('Os alunos aprovados são' , (sit))
+# alunos_aprovados ={'igor' , 'jotape' , 'pompeu' , 'gustavo' , 'zé'}
+# todos_alunos = {'igor' , 'jotape' , 'pompeu' , 'gustavo' , 'zé' , 'samuel' , 'artur' , ' gui'}
+# sit = todos_alunos.difference(alunos_aprovados)
+# print('Os alunos aprovados são' , (sit))
