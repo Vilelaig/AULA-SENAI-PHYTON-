@@ -61,10 +61,10 @@
 
 # 5 - Crie uma função lambda que calcule o produto de três números.
 
-from functools import reduce
-numeros = int(input(' Digite o numero: '))
-numeros_2 = int(input(' Digite o numero: '))
-numeros_3 = int(input(' Digite o numero: '))
-somas = [numeros, numeros_2, numeros_3]
-produto = reduce(lambda x,y : x * y, somas)
-print(produto)
+# from functools import reduce
+# numeros = int(input(' Digite o numero: '))
+# numeros_2 = int(input(' Digite o numero: '))
+# numeros_3 = int(input(' Digite o numero: '))
+# somas = [numeros, numeros_2, numeros_3]
+# produto = reduce(lambda x,y : x * y, somas)
+# print(produto)
